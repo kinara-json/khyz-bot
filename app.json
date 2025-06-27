@@ -1,0 +1,7 @@
+{
+	"name": "kinara",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/kinara-json/MY-SC.git",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["whatsapp-bot", "multi-device", "bot", "whatsapp"]
+}
